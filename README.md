@@ -1,0 +1,1 @@
+# CrowdStrike-Microsoft-Outage-Impact-Analysis
