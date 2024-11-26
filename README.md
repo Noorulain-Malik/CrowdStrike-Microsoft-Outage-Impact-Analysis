@@ -15,6 +15,7 @@ Interactive visualizations have been created to display key trends and impacts, 
 
 - **Sentiment Analysis**: Performed on **Reddit posts and comments** using **VADER Sentiment Analysis**, providing insights into public perception before, during, and after the CrowdStrike incident.![Screenshot 2024-11-26 014224](https://github.com/user-attachments/assets/24e60671-c87f-47e7-a109-5b4038a7f78e)
 ![Screenshot 2024-11-26 014153](https://github.com/user-attachments/assets/058d7afd-ab3a-4e40-85e8-cd33d9a986f0)
+![Screenshot 2024-11-26 021001](https://github.com/user-attachments/assets/3a2fdb67-0dd4-4ece-bade-46b41e38f002)
 
 - **Web Scraping**: Utilized **BeautifulSoup** and **requests** to scrape **affected country information** from **Times Now News**.![Screenshot 2024-11-26 013936](https://github.com/user-attachments/assets/3b945227-5c96-44b2-ac0e-6a92cbae411e) ![Screenshot 2024-11-26 014132](https://github.com/user-attachments/assets/5edbcd83-e2e8-4077-ab43-654919f4cd35)
 
@@ -27,6 +28,8 @@ Interactive visualizations have been created to display key trends and impacts, 
 - **Historical Outage Data**: Provides context on previous similar outages, comparing the **CrowdStrike incident** with past disruptions.
 - **Visualization**: Uses **Power BI** and **Plotly** to generate **interactive dashboards** and **choropleth maps** to visualize sentiment trends, financial loss, and the global impact of the incident.
 
+![Screenshot 2024-11-26 015714](https://github.com/user-attachments/assets/c00c7f53-b71f-4ee0-989a-23f41f39fe62)
+![Screenshot 2024-11-26 020024](https://github.com/user-attachments/assets/ec3e4bab-c922-4621-8b7f-da957cc24997)
 ## Technologies Used
 
 - **Python**: Core scripting language for data collection, cleaning, and analysis.
