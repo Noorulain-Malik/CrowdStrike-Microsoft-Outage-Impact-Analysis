@@ -13,7 +13,7 @@ Interactive visualizations have been created to display key trends and impacts, 
 
 ## Key Features
 
-- **Sentiment Analysis**: Performed on **Reddit posts and comments** using **VADER Sentiment Analysis**, providing insights into public perception before, during, and after the CrowdStrike incident.![Screenshot 2024-11-26 014224](https://github.com/user-attachments/assets/24e60671-c87f-47e7-a109-5b4038a7f78e)
+- **Sentiment Analysis**: Performed on **Reddit posts and comments** using **VADER Sentiment Analysis**, providing insights into public perception  during, and after the CrowdStrike incident.![Screenshot 2024-11-26 014224](https://github.com/user-attachments/assets/24e60671-c87f-47e7-a109-5b4038a7f78e)
 ![Screenshot 2024-11-26 014153](https://github.com/user-attachments/assets/058d7afd-ab3a-4e40-85e8-cd33d9a986f0)
 ![Screenshot 2024-11-26 021001](https://github.com/user-attachments/assets/3a2fdb67-0dd4-4ece-bade-46b41e38f002)
 
