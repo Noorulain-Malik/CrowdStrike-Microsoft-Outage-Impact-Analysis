@@ -4,7 +4,7 @@
 
 # CrowdStrike Incident & Microsoft Outage Impact Analysis
 
-This analysis not only sheds light on the **CrowdStrike incident** but also offers a framework for understanding the economic and societal impacts of large-scale **cybersecurity events**. Whether you're in **cybersecurity**, **finance**, or just passionate about tech, this project helps to visualize and quantify the scale of such events. The combination of **historical context**, **sentiment analysis**, and **financial loss estimates** makes it a comprehensive resource for understanding the implications of major disruptions in global services.
+This analysis not only sheds light on the **CrowdStrike incident** but also offers a framework for understanding the economic and societal impacts. Whether you're in **cybersecurity**, **finance**, or just passionate about tech, this project helps to visualize and quantify the scale of such events. The combination of **historical context**, **sentiment analysis**, and **financial loss estimates** makes it a comprehensive resource for understanding the implications of major disruptions in global services.
 
 ## Overview
 
